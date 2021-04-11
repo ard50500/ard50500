@@ -19,6 +19,6 @@ Bu arada Discord V12 Boş Altyapıma Gidebilirsiniz [Boş Altyapı](https://zeki
 - [Discord Fivem Botu](https://github.com/ard50500/discordfivembot)
 <!-- BLOG-POST-LIST:END -->
 
-[![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=ard50500)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ard50500)](https://github.com/anuraghazra/github-readme-stats)
 
 **[zekiarda.xyz](https://zekiarda.xyz)**
