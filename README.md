@@ -18,5 +18,9 @@ Bu arada Discord V12 Boş Altyapıma Gidebilirsiniz [Boş Altyapı](https://zeki
 - [Discord Logo Botu Altyapısı](https://github.com/ard50500/discordlogobotaltyapi)
 - [Discord Fivem Botu](https://github.com/ard50500/discordfivembot)
 <!-- BLOG-POST-LIST:END -->
+<div align = "center">
+<img src = "https://github-readme-stats.vercel.app/api?username=Antiperes&show_icons=true&theme=tokyonight" width = "% 100" height = "150px" />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Antiperes&layout=compact&theme=tokyonight" width = "% 100" height = "150px"  />
+</div>
 
 **[zekiarda.xyz](https://zekiarda.xyz)**
