@@ -20,4 +20,4 @@ Bu arada Discord V12 Boş Altyapıma Gidebilirsiniz [Boş Altyapı](https://zeki
 <!-- BLOG-POST-LIST:END -->
 **[zekiarda.xyz](https://zekiarda.xyz)**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacagri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacagri&layout=compact)](https://zekiarda.xyz)
