@@ -5,7 +5,6 @@
 ### Amacım ne ? 👨‍💻
 
 Şuanki amacın kendime büyüyünce iş konusunda yarar sağliyacak bilgiler edinmek.<br />
-Bu arada Discord V12 Boş Altyapıma Gidebilirsiniz [Boş Altyapı](https://zekiarda.xyz).
 
 ### Projelerim
 <!-- BLOG-POST-LIST:START -->
