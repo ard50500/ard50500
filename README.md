@@ -17,6 +17,5 @@
 - [Discord Logo Botu Altyapısı](https://github.com/ard50500/discordlogobotaltyapi)
 - [Discord Fivem Botu](https://github.com/ard50500/discordfivembot)
 <!-- BLOG-POST-LIST:END -->
-**[zekiarda.xyz](https://zekiarda.xyz)**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacagri&layout=compact)](https://zekiarda.xyz)
