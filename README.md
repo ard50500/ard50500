@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Selamlar, Ben [Zeki Arda](https://zekiarda.xyz/#resume)!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Selamlar, Ben [Arda](https://zekiarda.xyz/#resume)!
 
  ~~Tam Zamanlı İşim Var~~ Freelancer bir Tasarımcı/Geliştiriciyim. Manisada yaşıyorum.
 
