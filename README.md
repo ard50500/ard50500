@@ -2,10 +2,6 @@
 
  ~~Tam Zamanlı İşim Var~~ Freelancer bir Tasarımcı/Geliştiriciyim. Manisada yaşıyorum.
 
-### Amacım ne ? 👨‍💻
-
-Şuanki amacın kendime büyüyünce iş konusunda yarar sağliyacak bilgiler edinmek.<br />
-
 ### Projelerim
 <!-- BLOG-POST-LIST:START -->
 - [Minecraft Makrom !!!!](https://github.com/ard50500/minecraftmakro)
