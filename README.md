@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Selamlar, Ben [Arda](https://zekiarda.xyz/#resume)!
 
- ~~Tam Zamanlı İşim Var~~ Freelancer bir Tasarımcı/Geliştiriciyim. Manisada yaşıyorum.
+ ~~Tam Zamanlı İşim Var~~ Freelancer bir Tasarımcı/Geliştiriciyim. Şuan genellikle kafama estikçe yardımcı olabilecek kodlar yazıyorum. Projelerim çok eski en son attığım kodlara bakmanızı tavsiye ederim.
 
 ### Projelerim
 <!-- BLOG-POST-LIST:START -->
@@ -14,5 +14,3 @@
 - [Discord Logo Botu Altyapısı](https://github.com/ard50500/discordlogobotaltyapi)
 - [Discord Fivem Botu](https://github.com/ard50500/discordfivembot)
 <!-- BLOG-POST-LIST:END -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacagri&layout=compact)](https://zekiarda.xyz)
